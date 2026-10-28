@@ -1,10 +1,5 @@
-# Ficheros de datos pesados/locales
-datos/raw/*
-datos/clean/*
-!datos/raw/.gitkeep
-!datos/clean/.gitkeep
-
-# Entornos virtuales y caché de Python
+datos/*
+!datos/.gitkeep
 __pycache__/
 *.py[cod]
 .ipynb_checkpoints/
